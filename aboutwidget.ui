@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AboutWidget</class>
+ <widget class="QWidget" name="AboutWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>298</width>
+    <height>160</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>以下全都是废话</string>
+  </property>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>281</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>华文仿宋</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="plainText">
+    <string>        恭喜你发现彩蛋！这里是作者的一点小小的碎碎念。
+        童年时期没有电脑，而在2018年9月15日，腾讯正式关停了qq宠物。等到上了大学有了自己的电脑时却早已见不到小企鹅的身影。但很幸运的是，这个学期我们接触到了QT，突发奇想是否可以用所学的知识复刻记忆中的童年并以此弥补遗憾。
+        虽然我们的水平还不足以支持完全重现当年的Q宠社区，这一版的软件功能也相当简单粗糙，但是我相信，在未来不断地学习与成长中，随着我们的进步，小企鹅会变得越来越好。
+        这里仅仅是我们的一点心声，感谢你看到这里。期待我们的下次见面。
+
+
+</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
